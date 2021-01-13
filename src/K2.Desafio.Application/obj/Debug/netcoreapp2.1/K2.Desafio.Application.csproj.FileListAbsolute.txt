@@ -1,0 +1,9 @@
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\bin\Debug\netcoreapp2.1\K2.Desafio.Application.deps.json
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\bin\Debug\netcoreapp2.1\K2.Desafio.Application.dll
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\bin\Debug\netcoreapp2.1\K2.Desafio.Application.pdb
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\obj\Debug\netcoreapp2.1\K2.Desafio.Application.csprojAssemblyReference.cache
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\obj\Debug\netcoreapp2.1\K2.Desafio.Application.csproj.CoreCompileInputs.cache
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\obj\Debug\netcoreapp2.1\K2.Desafio.Application.AssemblyInfoInputs.cache
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\obj\Debug\netcoreapp2.1\K2.Desafio.Application.AssemblyInfo.cs
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\obj\Debug\netcoreapp2.1\K2.Desafio.Application.dll
+C:\DESENVOLVIMENTO\Git\desafiok2\src\K2.Desafio.Application\obj\Debug\netcoreapp2.1\K2.Desafio.Application.pdb

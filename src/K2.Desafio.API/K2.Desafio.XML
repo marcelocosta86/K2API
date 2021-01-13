@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>K2.Desafio.API</name>
+    </assembly>
+    <members>
+        <member name="M:K2.Desafio.API.Orders.ParticipantOrdersController.GetParticipantOrders(System.Guid)">
+            <summary>
+            Get Participant orders.
+            </summary>
+            <param name="ParticipantId">Participant ID.</param>
+            <returns>List of Participant orders.</returns>
+        </member>
+        <member name="M:K2.Desafio.API.Orders.ParticipantOrdersController.GetParticipantOrderDetails(System.Guid)">
+            <summary>
+            Get Participant order details.
+            </summary>
+            <param name="orderId">Order ID.</param>
+        </member>
+        <member name="M:K2.Desafio.API.Orders.ParticipantOrdersController.AddParticipantOrder(System.Guid,K2.Desafio.API.Orders.ParticipantOrderRequest)">
+            <summary>
+            Add Participant order.
+            </summary>
+            <param name="ParticipantId">Participant ID.</param>
+            <param name="request">Products list.</param>
+        </member>
+        <member name="M:K2.Desafio.API.Participant.ParticipantController.RegisterParticipant(K2.Desafio.Application.Participants.RegisterParticipant.RegisterParticipantRequest)">
+            <summary>
+            Register Participant.
+            </summary>
+        </member>
+    </members>
+</doc>
